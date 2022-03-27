@@ -1,8 +1,9 @@
 # Spring Blog API
 
-## Simple Spring Boot Blog Application RESTful API including Basic Auth Security
+## Simple Spring Boot Blog Application RESTful API including Basic Auth
 
 The application is secured using role based Basic Auth.
+
 Application users can access all GET endpoints, POST, PUT and DELETE endpoints 
 can be accessed depending on business logic.
 
